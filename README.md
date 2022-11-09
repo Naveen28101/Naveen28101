@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naveen Yadav 😎</h1>
 <h3 align="center">A passionate frontend developer 💕</h3>
+
+<!-- holopin badges -->
 [![@naveen28101's Holopin board](https://holopin.me/naveen28101)](https://holopin.io/@naveen28101)
 
 
